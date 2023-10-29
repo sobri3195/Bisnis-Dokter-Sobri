@@ -3,10 +3,10 @@ Repository ini adalah kumpulan informasi dan sumber daya mengenai berbagai bisni
 
 # Daftar Isi
 1.Klinik Sunat
-2.Klinik Wasir
-3.Gym atau Pusat Kebugaran
-4.Klinik Estetika
-5.Apotek
+2.Klinik Wasir<br>
+3.Gym atau Pusat Kebugaran<br>
+4.Klinik Estetika<br>
+5.Apotek<br>
 6.Lab Diagnostik
 7.Panti Pijat
 8.Klinik Fisioterapi
